@@ -26,15 +26,15 @@ organizations:
     url: https://www.stanford.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: PhD in Communication, expected 2024
       institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      year: ""
+    - course: MA in Media Psychology, 2021
+      institution: Stanford University
+      year: ""
+    - course: BA in Psychology & BA in Communication, 2019
+      institution: Stanford University
+      year: ""
 email: ""
 superuser: true
 highlight_name: true
