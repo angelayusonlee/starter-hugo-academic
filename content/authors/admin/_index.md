@@ -41,4 +41,6 @@ I'm a 4th year PhD candidate in Communication at Stanford University, where I st
 
 To do so, I employ a variety of methods including qualitative interviews, survey research, lab and field experiments, and computational analysis of smartphone log data. Most importantly, I collaborate with community partners to develop interventions to real-world problems that threaten our personal and collective well-being. 
 
-I'm always more than happy to talk more about research. Feel free to reach me at angela8@stanford.edu or @angelaylee374 on Twitter.
+My research is supported by the Stanford Interdisciplinary Graduate Fellowship, the Haas Graduate Public Service Fellowship, and the Stanford Impact Labs Collaborative Research Fellowship. 
+
+I'm always more than happy to talk more about research and life. Feel free to reach me at angela8@stanford.edu or @angelaylee374 on Twitter.
