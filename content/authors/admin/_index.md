@@ -39,9 +39,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
+I'm a 4th year PhD candidate in Communication at Stanford University, where I study media psychology in the Social Media Lab. My research focuses on optimizing experiences with social technology by empowering users to have *agency* over their digital lives. I am particularly interested in helping people leverage new technologies to improve their psychological well-being, obtain better insights into their mental health, and navigate information and misinformation more effectively at scale. 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+To do so, I collaborate with community partners to develop interventions to real-world problems that threaten our personal and collective well-being.
