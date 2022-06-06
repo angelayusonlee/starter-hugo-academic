@@ -41,4 +41,4 @@ highlight_name: true
 ---
 I'm a 4th year PhD candidate in Communication at Stanford University, where I study media psychology in the Social Media Lab. My research focuses on optimizing experiences with social technology by empowering users to have *agency* over their digital lives. I am particularly interested in helping people leverage new technologies to improve their psychological well-being, obtain better insights into their mental health, and navigate information and misinformation more effectively at scale. 
 
-To do so, I collaborate with community partners to develop interventions to real-world problems that threaten our personal and collective well-being.
+To do so, I employ a variety of methods including qualitative interviews, survey research, lab and field experiments, and computational analysis of smartphone log data. Most importantly, I collaborate with community partners to develop interventions to real-world problems that threaten our personal and collective well-being.
